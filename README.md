@@ -15,6 +15,7 @@ This repository contains code for an ESP32-based WiFi deauthentication tool. It 
 ## Usage
 
 Once connected to the device, you can use the web interface to manage WiFi deauthentication operations.
+you can conecting the oled dispaly the sck pin to pin 22 and sda to pin 21
 
 ## Disclaimer
 
